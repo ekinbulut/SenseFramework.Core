@@ -6,11 +6,11 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>https://bitbucket.org/ekinbulut/senseframework</projectUrl>
+    <projectUrl>https://ekinbulut.github.io/SenseFramework.Core/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>SenseFramework.Core Latest</releaseNotes>
+    <releaseNotes>This package contains castle windsor support for senseframework.</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>SenseFramework.Core SenseFramework BoilerPlate</tags>
+    <tags>Senseframework Container Castle.Windsor BoilerPlate</tags>
   </metadata>
 </package>
