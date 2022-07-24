@@ -14,6 +14,7 @@ using Castle.MicroKernel.SubSystems.Configuration;
 using Castle.Windsor;
 using log4net.Config;
 
+
 namespace SenseFramework.Core.Installers
 {
     /// <summary>
